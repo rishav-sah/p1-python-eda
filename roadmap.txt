@@ -1,0 +1,98 @@
+## Phase 1
+
+**Python**: 
+
+**Basics**:
+variables
+data types
+conditional statements
+functions
+loops
+
+**Advanced**
+strings
+list
+dictionary
+tuples
+sets
+file handling
+
+**Statistics 1**: (For EDA) 
+
+Types of statistics
+
+pop vs sample
+
+data types
+
+levels of data
+
+parameter vs statistics
+
+frequency table
+
+Frequency distribution table
+
+bar plot
+
+pie chart
+
+histogram
+
+distribution plot
+
+central tendency
+
+mean-median-mode
+
+mean vs median
+
+outlier
+
+types of distribution
+
+Neg Skew, Pos Skew, No Skew
+
+Range, Mean Deviation, Absolute Mean Deviation
+
+Variance
+
+Standard deviation
+
+How to find outlier
+
+Percentile - Quartile
+
+Box Plot
+
+Univariate, Bivariate, Multivariate,
+
+Scatter Plot
+
+Covariance
+
+Covariance matrix
+
+Correlation
+
+Difference between covariance and relation
+
+Empirical rule for normal distribution
+
+Chebyshev rule for non-normal distribution
+
+Influential Outlier
+
+Standarization 
+
+Data Standarization Techniques
+
+Z-Standarization (Z-Score)
+
+Normalization
+
+Mix-Max-Scaler
+
+Label Encoder
+
+One hot encoder
